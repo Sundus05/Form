@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Sundus05/Form/static/css/main.e6dd4658.chunk.css",
+    "main.js": "/Sundus05/Form/static/js/main.3dd6d031.chunk.js",
+    "main.js.map": "/Sundus05/Form/static/js/main.3dd6d031.chunk.js.map",
+    "runtime-main.js": "/Sundus05/Form/static/js/runtime-main.007e7ff8.js",
+    "runtime-main.js.map": "/Sundus05/Form/static/js/runtime-main.007e7ff8.js.map",
+    "static/js/2.43a154eb.chunk.js": "/Sundus05/Form/static/js/2.43a154eb.chunk.js",
+    "static/js/2.43a154eb.chunk.js.map": "/Sundus05/Form/static/js/2.43a154eb.chunk.js.map",
+    "static/js/3.ea5a4931.chunk.js": "/Sundus05/Form/static/js/3.ea5a4931.chunk.js",
+    "static/js/3.ea5a4931.chunk.js.map": "/Sundus05/Form/static/js/3.ea5a4931.chunk.js.map",
+    "index.html": "/Sundus05/Form/index.html",
+    "static/css/main.e6dd4658.chunk.css.map": "/Sundus05/Form/static/css/main.e6dd4658.chunk.css.map",
+    "static/js/2.43a154eb.chunk.js.LICENSE.txt": "/Sundus05/Form/static/js/2.43a154eb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.007e7ff8.js",
+    "static/js/2.43a154eb.chunk.js",
+    "static/css/main.e6dd4658.chunk.css",
+    "static/js/main.3dd6d031.chunk.js"
+  ]
+}
